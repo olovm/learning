@@ -1,0 +1,11 @@
+.error input {
+	background-color: red;
+}
+
+.correct input {
+	background-color: #22f422;
+}
+
+.error .correct {
+	background-color: #22f422;
+}
